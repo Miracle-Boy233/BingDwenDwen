@@ -1,2 +1,2 @@
 # BingDwenDwen
-BingDwenDwen Drawing from FishC
+Python code for BingDwenDwen Drawing from FishC
